@@ -1,2 +1,3 @@
 # Twitter-Api-for-Analysis-of-Twitter-Trends
 This repository consist of the jupyter notebook file for doing the analysis of the twitter trends.You can easily check this code out and try on your own for looking for twitter trends. We used the twitter API for the same. You just have to make a app in twitter. from where you will get the credentials for the same. And which you have to write in the places as in the notebook. 
+In this files I have created some information for finding the global trends, Country Trends, or local trends of the particular city's trends. You can also watch the tweeter trends from the code mentioned in this repo. And using Twitter API for the same.
